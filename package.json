@@ -1,0 +1,23 @@
+{
+  "name": "coding-exercise",
+  "version": "1.0.0",
+  "description": "This repo hosts the code for my completed coding exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizquadnan/coding-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rizquadnan/coding-exercise/issues"
+  },
+  "homepage": "https://github.com/rizquadnan/coding-exercise#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
