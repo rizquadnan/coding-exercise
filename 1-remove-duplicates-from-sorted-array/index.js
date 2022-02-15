@@ -9,7 +9,7 @@ const removeDuplicates = function(nums) {
    }
  }
 
- return nums;
+ return nums.length;
 };
 
 module.exports = removeDuplicates;
