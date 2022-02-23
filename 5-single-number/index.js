@@ -9,8 +9,6 @@ const singleNumber = (nums) => {
       uniqueNumber = nums[i + 1]
       i++
     }
-
-    console.log("")
   }
 
   return uniqueNumber
